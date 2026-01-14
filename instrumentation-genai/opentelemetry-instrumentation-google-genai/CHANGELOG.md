@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-- Enable the addition of custom attributes to the `generate_content {model.name}` span via the Context API. ([#3961](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/3961)).
+- Enable the addition of custom attributes to the `generate_content {model.name}` span and logs events via the Context API. ([#3961](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/3961)).
 
 ## Version 0.5b0 (2025-12-11)
 
